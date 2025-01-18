@@ -1,4 +1,4 @@
-## Belajar Dasar Pemrograman JavaScript - Dicoding Indonesia <br><br> Submission: Evaluasi Pembelajaran Akhir
+## Course Belajar Dasar Pemrograman JavaScript - Dicoding Indonesia <br><br> Submission: Evaluasi Pembelajaran Akhir
 ### Dalam submission ini, terdapat 3 tugas coding yang wajib dikerjakan dan 4 tugas coding yang opsional dikerjakan agar mendapatkan nilai yang baik.<br>
 
 ### Tata Cara Pengerjaan Tugas Mandiri via Code Editor
@@ -34,4 +34,4 @@ Setiap tugas yang Anda kerjakan memiliki nilainya masing-masing. Berikut penjela
 
 Submission Anda akan dinilai oleh reviewer dengan skala 1-5 berdasarkan dari parameter yang ada. 
 <br><br>
-Anda dapat mengerjakan tugas optional agar mendapatkan nilai tinggi
+Anda dapat mengerjakan tugas optional agar mendapatkan nilai tinggi.
