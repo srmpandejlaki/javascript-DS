@@ -1,4 +1,5 @@
-Dalam submission ini, terdapat 3 tugas coding yang wajib dikerjakan dan 4 tugas coding yang opsional dikerjakan agar mendapatkan nilai yang baik.<br>
+## Belajar Dasar Pemrograman JavaScript - Dicoding Indonesia <br><br> Submission: Evaluasi Pembelajaran Akhir
+### Dalam submission ini, terdapat 3 tugas coding yang wajib dikerjakan dan 4 tugas coding yang opsional dikerjakan agar mendapatkan nilai yang baik.<br>
 
 ### Tata Cara Pengerjaan Tugas Mandiri via Code Editor
 Berikut tata cara dalam pengerjaan tugas via code editor secara mandiri:
@@ -10,6 +11,15 @@ Berikut tata cara dalam pengerjaan tugas via code editor secara mandiri:
 </ol>
 
 Kerjakan setiap tugas yang diberikan dengan benar. Jika masih ada tugas yang salah di dalam folder 01-writing-comments, 02-code-style, atau 03-writing-test, submission Anda akan ditolak.
+<br>
+### Tata Cara Pengiriman Tugas Submission secara Mandiri
+
+<ol start="1">
+  <li>Sebelum mengirim submission, pastikan sudah mengerjakan setiap tugas dengan benar, terutama pada folder 01-writing-comments, 02-code-style, dan 03-writing-test. Jika masih ada tugas yang belum benar, submission Anda akan ditolak.</li>
+  <li>Setelah selesai mengerjakan tugas, kompres folder “final-assessment” dalam format ZIP.</li>
+  <li>Kirim berkas ZIP tersebut pada fitur Upload Berkas ketika hendak mengirimkan submission pada platform Dicoding.</li>
+</ol>
+
 <br>
 Setiap tugas yang Anda kerjakan memiliki nilainya masing-masing. Berikut penjelasannya.
 
