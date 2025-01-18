@@ -1,3 +1,16 @@
+Dalam submission ini, terdapat 3 tugas coding yang wajib dikerjakan dan 4 tugas coding yang opsional dikerjakan agar mendapatkan nilai yang baik.<br>
+
+### Tata Cara Pengerjaan Tugas Mandiri via Code Editor
+Berikut tata cara dalam pengerjaan tugas via code editor secara mandiri:
+<ol start="1">
+  <li>Unduh proyek yang tertera pada tautan di atas.</li>
+  <li>Ekstrak berkas ZIP tersebut dan pastikan terdapat folder “final-assessment” yang dihasilkan. Di dalam folder terdapat tujuh folder lain yang merepresentasikan jumlah tugas yang harus Anda kerjakan.</li>
+  <li>Buka code editor yang Anda miliki (contoh VSCode) dan buka folder final-assessment melalui code editor.</li>
+  <li>Di dalam setiap folder tugas, Anda akan menemukan berkas `instruksi.md`. Bacalah dengan seksama untuk mengetahui tugas yang harus dikerjakan pada folder tersebut.</li>
+</ol>
+
+Kerjakan setiap tugas yang diberikan dengan benar. Jika masih ada tugas yang salah di dalam folder 01-writing-comments, 02-code-style, atau 03-writing-test, submission Anda akan ditolak.
+<br>
 Setiap tugas yang Anda kerjakan memiliki nilainya masing-masing. Berikut penjelasannya.
 
 <ul>
